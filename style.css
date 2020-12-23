@@ -1,0 +1,12 @@
+.page-footer font-small teal pt-4 {
+    height: 3000px !important;
+}
+
+img:hover {
+    position:relative;
+    height:80%;
+}
+
+body {
+background-color:blue;
+}
